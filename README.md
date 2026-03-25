@@ -1,5 +1,5 @@
 
-# CNN-based machine learning to classify lepton track images on a toy detector model
+# CNN-Based Classification of Lepton Track Images for High-Energy Physics Trigger Systems
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/)
